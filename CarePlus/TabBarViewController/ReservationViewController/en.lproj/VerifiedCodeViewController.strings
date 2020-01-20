@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "تم ارسال رمز التحقق الي الجوال"; ObjectID = "8KM-Em-ipa"; */
+"8KM-Em-ipa.text" = "Vrification code sent to your mobile";
+
+/* Class = "UIButton"; normalTitle = "ارسال مره اخري"; ObjectID = "GH2-6E-B4Q"; */
+"GH2-6E-B4Q.normalTitle" = "Send again";
+
+/* Class = "UILabel"; text = "ادخل الرمز لتاكيد الحجز"; ObjectID = "N51-qW-eNd"; */
+"N51-qW-eNd.text" = "Enter code to confirm booking";
+
+/* Class = "UILabel"; text = "0112133445"; ObjectID = "XFt-AV-ZvG"; */
+"XFt-AV-ZvG.text" = "0112133445";

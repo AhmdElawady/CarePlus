@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "سياسة استخدام كير بلس"; ObjectID = "EKl-PO-VM2"; */
+"EKl-PO-VM2.normalTitle" = "Use policy for Carepluse";
+
+/* Class = "UIButton"; normalTitle = "تاكيد الحجز"; ObjectID = "T8h-fc-SWe"; */
+"T8h-fc-SWe.normalTitle" = "Book confirmation";
+
+/* Class = "UIButton"; normalTitle = "انثي"; ObjectID = "VAr-qo-T2x"; */
+"VAr-qo-T2x.normalTitle" = "Girl";
+
+/* Class = "UILabel"; text = "الجنس"; ObjectID = "bng-Gj-hqp"; */
+"bng-Gj-hqp.text" = "Gender";
+
+/* Class = "UILabel"; text = "اوافق علي"; ObjectID = "cow-EB-cDA"; */
+"cow-EB-cDA.text" = "Accepted for";
+
+/* Class = "UILabel"; text = "حجز موعد لدي مجمع عيادات المملكه"; ObjectID = "pqQ-iu-2cG"; */
+"pqQ-iu-2cG.text" = "Book a date for Kingdom clinics area";
+
+/* Class = "UIButton"; normalTitle = "ذكر"; ObjectID = "ycz-FJ-0jV"; */
+"ycz-FJ-0jV.normalTitle" = "Boy";

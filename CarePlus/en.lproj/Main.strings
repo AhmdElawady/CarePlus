@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "المدينه"; ObjectID = "3xx-Lc-EDt"; */
+"3xx-Lc-EDt.text" = "City";
+
+/* Class = "UILabel"; text = "مدة الانتظار المتوقعه  10 دقيقه"; ObjectID = "530-50-WYg"; */
+"530-50-WYg.text" = "Expecting waiting period is 15 min";
+
+/* Class = "UIButton"; normalTitle = "(اعرض الخريطه)"; ObjectID = "6nI-CK-P6W"; */
+"6nI-CK-P6W.normalTitle" = "(Show Map)";
+
+/* Class = "UILabel"; text = "البحث في تخصص الباطنه"; ObjectID = "AbD-U8-PNb"; */
+"AbD-U8-PNb.text" = "Search in Abdominal speciality";
+
+/* Class = "UITabBarItem"; title = "المعرض"; ObjectID = "F1C-0i-kAk"; */
+"F1C-0i-kAk.title" = "Gallery";
+
+/* Class = "UILabel"; text = "ساعات العمل"; ObjectID = "MU5-iu-Ygd"; */
+"MU5-iu-Ygd.text" = "Working Hours";
+
+/* Class = "UILabel"; text = "الحي"; ObjectID = "OgP-s2-Z7g"; */
+"OgP-s2-Z7g.text" = "Neighborhood";
+
+/* Class = "UIButton"; normalTitle = "البحث بالقرب مني"; ObjectID = "QxH-uO-ahh"; */
+"QxH-uO-ahh.normalTitle" = "Searching near me";
+
+/* Class = "UILabel"; text = "او يمكنك تحديد موقع البحث يدويا "; ObjectID = "TGf-6F-1fX"; */
+"TGf-6F-1fX.text" = "Or you can spacify location manually";
+
+/* Class = "UILabel"; text = "البحث عن طريق الموقع"; ObjectID = "VB6-g5-c1C"; */
+"VB6-g5-c1C.text" = "Searching by your currunt location";
+
+/* Class = "UILabel"; text = "يمكنك استخدام موقعك الحالي للبحث عن المنشآت القريبه"; ObjectID = "XQv-4a-unE"; */
+"XQv-4a-unE.text" = "You can use your currunt location to search nearest Clinins";
+
+/* Class = "UITabBarItem"; title = "الحجز"; ObjectID = "YBD-5H-8JP"; */
+"YBD-5H-8JP.title" = "Booking";
+
+/* Class = "UIButton"; normalTitle = "اختر المدينه والحي"; ObjectID = "YLQ-kk-i6E"; */
+"YLQ-kk-i6E.normalTitle" = "Choose City or Neighborhood";
+
+/* Class = "UIButton"; normalTitle = "ابحث"; ObjectID = "Yy8-Sz-aOr"; */
+"Yy8-Sz-aOr.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "مجمع عيادات المملكه"; ObjectID = "Z2W-Sw-yEZ"; */
+"Z2W-Sw-yEZ.text" = "Kingdom clinics area";
+
+/* Class = "UITabBarItem"; title = "العروض"; ObjectID = "asv-88-ebJ"; */
+"asv-88-ebJ.title" = "Offers";
+
+/* Class = "UILabel"; text = "شركات التامين"; ObjectID = "gOi-hc-8Sq"; */
+"gOi-hc-8Sq.text" = "Insurance companies";
+
+/* Class = "UITabBarItem"; title = "الاطباء"; ObjectID = "i1c-Vi-BNy"; */
+"i1c-Vi-BNy.title" = "Doctors";
+
+/* Class = "UILabel"; text = "البحث في تخصص الباطنه"; ObjectID = "iEe-2q-nC8"; */
+"iEe-2q-nC8.text" = "Searching in Abdominal field";
+
+/* Class = "UILabel"; text = "عن طريق اختيار المدينه او الحي"; ObjectID = "mSq-Af-0HF"; */
+"mSq-Af-0HF.text" = "By choosing City or Neighborhood";
+
+/* Class = "UILabel"; text = "الرياض - الروضه"; ObjectID = "oOa-x8-4p1"; */
+"oOa-x8-4p1.text" = "Riyadh - Rawdah";
+
+/* Class = "UILabel"; text = "التخصصات"; ObjectID = "u3d-Xk-vrU"; */
+"u3d-Xk-vrU.text" = "Specialities";
+
+/* Class = "UIButton"; normalTitle = "حجز"; ObjectID = "vRw-zD-mHO"; */
+"vRw-zD-mHO.normalTitle" = "Book";
+
+/* Class = "UILabel"; text = "جميع التخصصات"; ObjectID = "wwG-2g-zcH"; */
+"wwG-2g-zcH.text" = "All Fields";

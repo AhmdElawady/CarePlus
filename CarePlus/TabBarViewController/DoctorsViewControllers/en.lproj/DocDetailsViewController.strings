@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "استشاري"; ObjectID = "4Jw-WG-l3l"; */
+"4Jw-WG-l3l.text" = "استشاري";
+
+/* Class = "UILabel"; text = "مصر"; ObjectID = "4eJ-Ji-cMO"; */
+"4eJ-Ji-cMO.text" = "مصر";
+
+/* Class = "UILabel"; text = "الخبرات:"; ObjectID = "5KJ-GW-cu7"; */
+"5KJ-GW-cu7.text" = "Experiences:";
+
+/* Class = "UILabel"; text = "بروفيسور في البرمجه ، حاصل علي دكتوراه في الهندسه ، تخصص تفاحه ، خريج تجاره ، تادذسيرزذستياسيزذستيابزبتسزيبشباشسزيساشستيشوزي،ي"; ObjectID = "FKo-OP-Wdn"; */
+"FKo-OP-Wdn.text" = "بروفيسور في البرمجه ، حاصل علي دكتوراه في الهندسه ، تخصص تفاحه ، خريج تجاره ، تادذسيرزذستياسيزذستيابزبتسزيبشباشسزيساشستيشوزي،ي";
+
+/* Class = "UIButton"; normalTitle = "حجز"; ObjectID = "J5F-8B-C1D"; */
+"J5F-8B-C1D.normalTitle" = "Book";
+
+/* Class = "UILabel"; text = "د. احمد العوضي"; ObjectID = "NpA-BU-2J3"; */
+"NpA-BU-2J3.text" = "د. احمد العوضي";
+
+/* Class = "UILabel"; text = "انف واذن وحنجره"; ObjectID = "SmZ-Tk-JAf"; */
+"SmZ-Tk-JAf.text" = "انف واذن وحنجره";
+
+/* Class = "UILabel"; text = "التخصص:"; ObjectID = "Zl0-Y9-pGT"; */
+"Zl0-Y9-pGT.text" = "Field:";
+
+/* Class = "UILabel"; text = "الجنسية:"; ObjectID = "adw-jv-xzb"; */
+"adw-jv-xzb.text" = "Gender";
+
+/* Class = "UILabel"; text = "بروفيسور في البرمجه"; ObjectID = "eks-tL-sLr"; */
+"eks-tL-sLr.text" = "بروفيسور في البرمجه";
+
+/* Class = "UILabel"; text = "الشهادة:"; ObjectID = "ivB-qa-9Zs"; */
+"ivB-qa-9Zs.text" = "Certificates:";
+
+/* Class = "UILabel"; text = "الدرجه:"; ObjectID = "nKj-32-iul"; */
+"nKj-32-iul.text" = "Degree:";
