@@ -1,5 +1,5 @@
 # CarePlus
-Duel service application for Medical and Health care each in one screen for about 20 Screen at all
+Duel services application for Medical and Health care each in one screen for about 20 Screen at all
 
 ### UI screens are finished except some adjustments
 - Open careplus click any of 1st screen collectionView features to start choose one of both services Health and Medical
